@@ -1,0 +1,132 @@
+    1  mkdir "git-basic-exercises"
+    2  cd Users/
+    3  pwd
+    4  cd/c/Users/RUDZANI
+    5  ls -a
+    6  cd /git-basic-exercises
+    7  cd/c/Users/RUDZANI/"git-basic-exercises"
+    8  cd/c/Users/RUDZANI/git-basic-exercises
+    9  git status
+   10  touch README.md
+   11  ls -a
+   12  git log
+   13  pwd
+   14  cd git-basic-exercises/
+   15  ls -a
+   16  git init
+   17  ls -a
+   18  git status
+   19  touch README.md
+   20  ls -a
+   21  git status
+   22  git log
+   23  git add.md
+   24  git add README.md
+   25  git status
+   26  git reset HEAD README.md
+   27  git status
+   28  git reset --soft README.md
+   29  git reset --HEAD README.md
+   30  git reset --soft HEAD~1
+   31  git reset soft -- README.md
+   32  git reset README.md
+   33  git status
+   34  git add README.md
+   35  git status
+   36  git commit -m "initial commit"
+   37  git commit -m README.md
+   38  git commit -m initial commit
+   39  git commit -m "initial commit"
+   40  git commit -m "initial commit"
+   41  git log
+   42  git status
+   43  q
+   44  nano README.md
+   45  cat README.md
+   46  git stats
+   47  git status
+   48  git add README.md
+   49  git status
+   50  nano README.md
+   51  nano README.md
+   52  cat README.md
+   53  git add README.md
+   54  git status
+   55  git log
+   56  git add .
+   57  git log
+   58  git commit -m "README.md"
+   59  git log
+   60  git commit -m "first commit"
+   61  git add README.md
+   62  git commit -m "README.md"
+   63  git commit 'README.md'
+   64  git commit -m 'README.md'
+   65  git log
+   66  mkdir "git-basic-exercises"
+   67  cd git-basic-exercises/
+   68  ls -a
+   69  git init
+   70  git status
+   71  touch README.md
+   72  ls -a
+   73  git status
+   74  git log
+   75  git add README.md
+   76  git status
+   77  git commit -m "initial commit"
+   78  git config --global user.email "nephawe.mafa1@gmail"
+   79  git config --global user.email "nephawe.mafa1@gmail.com"
+   80  git config --global user.name "mafanedza"
+   81  git commit -m "initial commit"
+   82  git log
+   83  nano README.md
+   84  cat README.md
+   85  git commit -m "second commit"
+   86  git status
+   87  it add 
+   88  git add README.dm
+   89  git add README.md
+   90  git commit -m "second commit"
+   91  nano README.md
+   92  cat README.md
+   93  git add README.md
+   94  git commit -m "Third commit"
+   95  git log 
+   96  q
+   97  git checkout
+   98  d87592f49eccaf29309bb6aff8190e449a8e8b64
+   99  cat README.md
+  100  git checkout main
+  101  cat README.md
+  102  git checkout d87592f49eccaf29309bb6aff8190e449a8e8b64
+  103  cat README.md
+  104  git checkout main
+  105  cat README.md
+  106  git checkout 4e99b14eb90dd7503f7d6d6647e86b6addeac4bc
+  107  cat README.md
+  108  git branch
+  109  git status
+  110  git checkout master
+  111  cat README.md
+  112  git status
+  113  git branch "milkshake-flavours"
+  114  git branch
+  115  git branch
+  116  git checkout   milkshake-flavours
+  117  git branch
+  118  nano milkshakes.md
+  119  git status
+  120  git add 
+  121  git add milkshakes.md
+  122  git commit -m "added initial flavours"
+  123  git log
+  124  git checkout master
+  125  git checkout milkshake-flavours
+  126  git checkout master
+  127  git status
+  128  git branch "history"
+  129  git checkout history
+  130  git log
+  131  git branch
+  132  history > history.txt
